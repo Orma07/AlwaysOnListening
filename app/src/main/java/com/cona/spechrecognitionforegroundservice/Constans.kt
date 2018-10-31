@@ -1,0 +1,11 @@
+package com.cona.spechrecognitionforegroundservice
+
+object Constants {
+
+    val STARTFOREGROUND_ACTION : String = "STARTFOREGROUND_ACTION"
+    val STOPFOREGROUND_ACTION = "STOPFOREGROUND_ACTION"
+    val ACTION_MAIN= "ACTION_MAIN_ACTION"
+    val ACTION_PREV = "ACTION_PREV_ACTION"
+    val NOTIFICATION_ID = 101
+    val ACTION_STOPFOREGROUND = "ACTION_STOPFOREGROUND"
+}
